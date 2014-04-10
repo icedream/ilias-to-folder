@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CookieAwareWebClient.cs">
+    <Files>
+      <File FileName="Program.cs" Line="14" Column="4" />
+      <File FileName="Ilias/IliasSession.cs" Line="88" Column="42" />
+      <File FileName="CookieAwareWebClient.cs" Line="46" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
